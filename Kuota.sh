@@ -24,10 +24,12 @@ echo $ij"║▌│█▌│ █║▌│█│║▌║║▌│█║▌│ █
 echo
 echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel"
 echo
-echo
-echo $ku"Masukan Nomer :(63xxxxx)"
-read -p "|___--->✓ : Nomer Kamu Cuk : " pil
+echo $me"================================="
+echo $ku"Masukan Nomer :(62xxxxx)"
+read -p ">>>Nomer Kamu Cuk : " pil
+echo $me"================================="
 echo $pr">>>SEDANG MEMPROSES<<<"
+echo $me"÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 sleep 1
 echo "LOADING CUK.......10%"
 sleep 1
@@ -49,35 +51,37 @@ echo "LOADING CUK.......90%"
 sleep 1
 echo "LOADING.......100%"
 sleep 1
-echo "\033[32;1mMasukkan Jumlah GB Kuota Yang Anda Mau :"
-read p;
-echo
+echo $me"======================================================"
+echo "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : p; "
+echo $me"======================================================"
 echo $ku"Sedang Menuju Proses Cuk..."
 sleep 1
-echo "■□□□□□□□□10%"
+echo "■□□□□□□□□□10%"
 sleep 2
-echo "■■□□□□□□□20%"
+echo "■■□□□□□□□□20%"
 sleep 3
-echo "■■■□□□□□□30%"
+echo "■■■□□□□□□□30%"
 sleep 4
-echo "■■■■□□□□□40%"
+echo "■■■■□□□□□□40%"
 sleep 5
-echo "■■■■□□□□□50%"
+echo "■■■■■□□□□□50%"
 sleep 6
-echo "■■■■■□□□□60%"
+echo "■■■■■■□□□□60%"
 sleep 7
-echo "■■■■■■□□□70%"
+echo "■■■■■■■□□□70%"
 sleep 8
-echo "■■■■■■■□□80%"
+echo "■■■■■■■■□□80%"
 sleep 8
-echo "■■■■■■■■□9/%"
+echo "■■■■■■■■■□9/%"
 sleep 9
-echo "■■■■■■■■■100%"
+echo "■■■■■■■■■■100%"
 sleep 3
 echo $me"██████████████]100% berhasil scan"
 echo $ku"___________________________________________"
 echo "\033[34;1mjumlah yang anda minta sedang kosong ,coba pilih nomor lain...
 ""\033[32;1msemoga di lain waktu anda beruntung cuk"
+echo
+echo
 sleep 3
 echo $pr"========================================================"
 echo $ku"WhatApp   : 082134566596"
@@ -85,6 +89,7 @@ echo $bi"Instagram : Akku_Santuy"
 echo $ij"Message   : JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
 echo $pr"========================================================"
 sleep 3
+echo
 echo $ku"Ketik Exit Untuk Keluar"
 read p;
 echo "TerimaKasih Sudah Memakai Script Ini Cuk"
