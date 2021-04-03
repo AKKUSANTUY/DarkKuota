@@ -52,8 +52,9 @@ sleep 1
 echo "LOADING.......100%"
 sleep 1
 echo $me"======================================================"
-echo "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : p; "
+echo "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] :" p;
 echo $me"======================================================"
+sleep 1
 echo $ku"Sedang Menuju Proses Cuk..."
 sleep 1
 echo "■□□□□□□□□□10%"
