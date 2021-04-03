@@ -11,6 +11,8 @@ echo
 figlet -f slant  "Paket"|lolcat
 
 figlet -f slant "       kuota"|lolcat
+
+figlet -f slant "Santri Cyber"|lolcat
 echo $ku"        ┕──━──━──┑◆┍──━──━──┙"
 echo $ku"        🇵 🇦 🇰 🇪 🇹  🇬 🇷 🇦 🇹 🇮 🇸"
 echo $bi"╔╦╗╔╦╗╔═╗╔══╗╔══╗  ╔══╗╔═╗╔══╗╔══╗╔══╗╔══╗"
@@ -20,18 +22,18 @@ echo $bi"╚╩╝╚═╝╚═╝─╚╝─╚╝╚╝  ╚══╝╚╩
 echo $ku"─────────────────  ───────────────────────"
 echo $ij"╚─━━━░★░━━━─╝╚─━━━░★░━━━─╝╚─━━━━░★░━━━━━━─╝"
 echo
-echo $ij"║▌│█▌│ █║▌│█│║▌║║▌│█║▌│ █║▌│█│║▌║║▌│█║▌│*"
+echo $ij"║▌│█▌│ █║▌│█│║▌║║▌│█║▌│ █║▌│█│║▌║║▌│█║▌│"
 echo
-echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel"
+echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel" $ku"By : Santri_Cyber"
 echo
 echo $me"================================="
-echo $ku"Masukan Nomer :(62xxxxx)"
+echo $ku">>>Masukan Nomer  :(62xxxxx)"
 read -p ">>>Nomer Kamu Cuk : " pil
 echo $me"================================="
 echo $pr">>>SEDANG MEMPROSES<<<"
 echo $me"÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 sleep 1
-echo "LOADING CUK.......10%"
+echo $ku"LOADING CUK.......10%"
 sleep 1
 echo "LOADING.......20%"
 sleep 1
@@ -52,7 +54,7 @@ sleep 1
 echo "LOADING.......100%"
 sleep 1
 echo $me"======================================================"
-echo "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] :" p;
+echo -p "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
 echo $me"======================================================"
 sleep 1
 echo $ku"Sedang Menuju Proses Cuk..."
@@ -78,9 +80,10 @@ sleep 9
 echo "■■■■■■■■■■100%"
 sleep 3
 echo $me"██████████████]100% berhasil scan"
+echo
 echo $ku"___________________________________________"
-echo "\033[34;1mjumlah yang anda minta sedang kosong ,coba pilih nomor lain...
-""\033[32;1msemoga di lain waktu anda beruntung cuk"
+echo "\033[34;1m>>>Jumlah yang anda minta sedang kosong ,coba pilih nomor lain...
+""\033[32;1m>>>Semoga di lain waktu anda beruntung cuk"
 echo
 echo
 sleep 3
