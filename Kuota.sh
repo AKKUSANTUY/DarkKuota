@@ -25,8 +25,8 @@ echo
 echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel"
 echo
 echo
-echo $ku"gunakan No :(63xxxxx)"
-read -p "|___--->✓ : pilih : " pil
+echo $ku"Masukan Nomer :(63xxxxx)"
+read -p "|___--->✓ : Nomer Kamu Cuk : " pil
 echo "L SEDANG MEMPROSES"
 sleep 1
 echo "LOADING.......10%"
@@ -49,8 +49,7 @@ echo "LOADING.......90%"
 sleep 1
 echo "LOADING.......100%"
 sleep 1
-echo "\033[32;1mSilahkan Masukkan Jumlah Yang Anda Mau:"
-read p;
+echo "\033[32;1mMasukkan Jumlah GB Yang Anda Mau :" read p;
 echo
 echo "Sedang Menuju Proses..."
 sleep 1
@@ -67,9 +66,13 @@ sleep 4
 echo "■■■■■100%"
 sleep 3
 echo "██████████████]100% berhasil scan"
-echo "\033[34;1mjumlah yang anda minta sedang kosong ,coba pilih nomor lain...""\033[32;1msemoga di lain waktu anda beruntung"
+echo "\033[34;1mjumlah yang anda minta sedang kosong ,coba pilih nomor lain...
+""\033[32;1msemoga di lain waktu anda beruntung"
 sleep 3
-echo "Ketik Exit Untuk Keluar"
+echo $ku"WhatApp   : 082134566596"
+echo $bi"Instagram : Akku_Santuy"
+echo $ij"Message   : JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
+echo $pr"Ketik Exit Untuk Keluar"
 read p;
-echo "TerimaKasih Untuk Yang Memakai Script Ini"
+echo "TerimaKasih Sudah Memakai Script Ini Cuk"
 exit
