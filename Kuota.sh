@@ -55,23 +55,23 @@ echo
 echo $ku"Sedang Menuju Proses Cuk..."
 sleep 1
 echo "■□□□□□□□□10%"
-sleep 3
+sleep 2
 echo "■■□□□□□□□20%"
 sleep 3
 echo "■■■□□□□□□30%"
-sleep 3
-echo "■■■■□□□□□40%"
-sleep 3
-echo "■■■■□□□□□50%"
 sleep 4
+echo "■■■■□□□□□40%"
+sleep 5
+echo "■■■■□□□□□50%"
+sleep 6
 echo "■■■■■□□□□60%"
-sleep 1
+sleep 7
 echo "■■■■■■□□□70%"
-sleep 3
+sleep 8
 echo "■■■■■■■□□80%"
-sleep 3
+sleep 8
 echo "■■■■■■■■□9/%"
-sleep 3
+sleep 9
 echo "■■■■■■■■■100%"
 sleep 3
 echo $me"██████████████]100% berhasil scan"
@@ -84,6 +84,7 @@ echo $ku"WhatApp   : 082134566596"
 echo $bi"Instagram : Akku_Santuy"
 echo $ij"Message   : JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
 echo $pr"========================================================"
+sleep 3
 echo $ku"Ketik Exit Untuk Keluar"
 read p;
 echo "TerimaKasih Sudah Memakai Script Ini Cuk"
