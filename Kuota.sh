@@ -57,7 +57,7 @@ sleep 1
 echo "LOADING.......100%"
 sleep 1
 echo $me"======================================================"
-read -p $ku"[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
+read -p $ku" [!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
 echo $me"======================================================"
 sleep 1
 echo $ku"Sedang Menuju Proses Cuk..."
