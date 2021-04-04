@@ -26,10 +26,13 @@ echo $ij"║▌│█▌│ █║▌│█│║▌║║▌│█║▌│ █
 echo
 echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel" $ku"By : Santri_Cyber"
 echo
-echo $me"================================="
+echo $me"====================================="
+echo $ku">>>Masukan Nama Kartu : (XL.dll)
+read -p ">>>Nama KartuMu Cuk   :
+echo $me"====================================="
 echo $ku">>>Masukan Nomer  :(62xxxxx)"
 read -p ">>>Nomer Kamu Cuk : " pil
-echo $me"================================="
+echo $me"====================================="
 echo $pr">>>SEDANG MEMPROSES<<<"
 echo $me"÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 sleep 1
@@ -54,32 +57,32 @@ sleep 1
 echo "LOADING.......100%"
 sleep 1
 echo $me"======================================================"
-echo -p "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
+read -p "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
 echo $me"======================================================"
 sleep 1
 echo $ku"Sedang Menuju Proses Cuk..."
-sleep 1
+sleep 2
 echo "■□□□□□□□□□10%"
 sleep 2
 echo "■■□□□□□□□□20%"
-sleep 3
+sleep 2
 echo "■■■□□□□□□□30%"
-sleep 4
+sleep 2
 echo "■■■■□□□□□□40%"
-sleep 5
+sleep 2
 echo "■■■■■□□□□□50%"
-sleep 6
+sleep 2
 echo "■■■■■■□□□□60%"
-sleep 7
+sleep 2
 echo "■■■■■■■□□□70%"
-sleep 8
+sleep 2
 echo "■■■■■■■■□□80%"
-sleep 8
+sleep 2
 echo "■■■■■■■■■□9/%"
-sleep 9
+sleep 2
 echo "■■■■■■■■■■100%"
-sleep 3
-echo $me"██████████████]100% berhasil scan"
+sleep 2
+echo $me"██████████████]100% berhasil scan Kuota"
 echo
 echo $ku"___________________________________________"
 echo "\033[34;1m>>>Jumlah yang anda minta sedang kosong ,coba pilih nomor lain...
