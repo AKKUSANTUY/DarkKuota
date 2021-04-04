@@ -57,31 +57,31 @@ sleep 1
 echo "LOADING.......100%"
 sleep 1
 echo $me"======================================================"
-read -p "\033[32;1m[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
+read -p $ku"[!] Masukkan Jumlah GB Kuota Kamu Cuk [!] : " pil
 echo $me"======================================================"
 sleep 1
 echo $ku"Sedang Menuju Proses Cuk..."
-sleep 2
+sleep 1
 echo "■□□□□□□□□□10%"
-sleep 2
+sleep 1
 echo "■■□□□□□□□□20%"
-sleep 2
+sleep 1
 echo "■■■□□□□□□□30%"
-sleep 2
+sleep 1
 echo "■■■■□□□□□□40%"
-sleep 2
+sleep 1
 echo "■■■■■□□□□□50%"
-sleep 2
+sleep 1
 echo "■■■■■■□□□□60%"
-sleep 2
+sleep 1
 echo "■■■■■■■□□□70%"
 sleep 2
 echo "■■■■■■■■□□80%"
-sleep 2
-echo "■■■■■■■■■□9/%"
-sleep 2
+sleep 3
+echo "■■■■■■■■■□90%"
+sleep 4
 echo "■■■■■■■■■■100%"
-sleep 2
+sleep 5
 echo $me"██████████████]100% berhasil scan Kuota"
 echo
 echo $ku"___________________________________________"
