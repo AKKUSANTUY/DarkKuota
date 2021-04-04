@@ -27,8 +27,8 @@ echo
 echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel" $ku"By : Santri_Cyber"
 echo
 echo $me"====================================="
-echo $ku">>>Masukan Nama Kartu : (XL.dll)
-read -p ">>>Nama KartuMu Cuk   :
+echo $ku">>>Masukan Nama Kartu : (XL.dll)"
+read -p ">>>Nama KartuMu Cuk   : " pil
 echo $me"====================================="
 echo $ku">>>Masukan Nomer  :(62xxxxx)"
 read -p ">>>Nomer Kamu Cuk : " pil
